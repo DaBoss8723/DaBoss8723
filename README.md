@@ -1,4 +1,4 @@
-# Hello, I'm Abdillahi Hajiali
+# Hello, I'm Abdillahi
 
 <a href="https://www.linkedin.com/in/abdillahi-hajiali-462541160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
