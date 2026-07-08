@@ -1,6 +1,6 @@
 # Hello, I'm Abdillahi Hajiali
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdillahi-hajiali-462541160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT Specialist with a strong foundation in networking, systems administration, and cybersecurity. I have completed studies in IT Networking, Cybersecurity, and Full-Stack Development, with hands-on experience supporting users, managing infrastructure, troubleshooting technical issues, and building cybersecurity home labs.
 
