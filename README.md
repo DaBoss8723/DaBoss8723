@@ -19,6 +19,7 @@ I am particularly interested in Security Operations Centre (SOC) roles, vulnerab
 ## Education & Professional Development
 
 - Advanced Diploma of Cyber Security
+- Cyber Security Specialisation
 - Diploma of Information Technology (Networking)
 - Diploma of Full-Stack Programming
 - Certificate IV in Cyber Security
