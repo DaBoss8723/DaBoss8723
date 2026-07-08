@@ -10,9 +10,11 @@ My passion is understanding how networks and systems operate, identifying securi
 
 ## Objective
 
-My goal is to transition into a cybersecurity-focused role where I can apply my networking knowledge, system administration experience, and hands-on security lab experience to monitor threats, investigate incidents, identify vulnerabilities, and help organisations improve their security.
+My goal is to build a career in cybersecurity by developing expertise across both defensive and offensive security. I am passionate about Security Operations, threat detection, incident response, vulnerability assessment, and penetration testing, with a strong interest in understanding both how attacks are performed and how they can be detected and prevented.
 
-I am particularly interested in Security Operations Centre (SOC) roles, vulnerability assessment, network security, and defensive security practices.
+Through my networking knowledge, system administration experience, and hands-on cybersecurity home labs, I have developed practical skills in security monitoring, vulnerability scanning, network enumeration, exploitation techniques, and improving system security.
+
+I am seeking opportunities where I can apply my technical skills, continue expanding my cybersecurity knowledge, and contribute to protecting organisations through effective security operations, vulnerability management, and ethical security testing.
 
 ---
 
