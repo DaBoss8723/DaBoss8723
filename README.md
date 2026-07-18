@@ -124,7 +124,7 @@ I am seeking opportunities where I can apply my technical skills, continue expan
 
 ---
 
-# Certifications
+# Certifications (Working Towards)
 
 <div>
 
