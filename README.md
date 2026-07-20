@@ -68,11 +68,23 @@ I am seeking opportunities where I can apply my technical skills, continue expan
 
 <div>
 
+<!-- Kali Linux -->
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 
+<!-- Windows Server -->
 <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 
+<!-- Windows 10 -->
+<img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- Windows 11 -->
+<img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- Ubuntu Server -->
 <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<!-- Metasploitable 2 -->
+<img src="https://img.shields.io/badge/-Metasploitable_2-4B275F?&style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
@@ -82,13 +94,17 @@ I am seeking opportunities where I can apply my technical skills, continue expan
 
 <div>
 
-<img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-Wazuh_SIEM-005571?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-0267C1?&style=for-the-badge&logo=wazuh&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-OWASP_ZAP-000000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-OWASP_ZAP-00549E?&style=for-the-badge&logo=zaproxy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge&logo=nmap&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
 
 </div>
 
