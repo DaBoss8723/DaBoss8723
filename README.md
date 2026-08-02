@@ -37,15 +37,12 @@ I am seeking opportunities where I can apply my technical skills, continue expan
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| AD Administration - SEIM Detection - Pentesting | <a href="https://github.com/DaBoss8723/AD-SEIM-Pentest">AD-SEIM-Pentest</a> |
-| Windows Server Configuration and Administration | <a href="">Enterprise Network Lab</a> |
-| Vulnerability Scanning and Security Assessment | <a href="">Metasploit Vulnerability Assessment Lab</a> |
-| Penetration Testing Fundamentals | <a href="">Kali Linux & Metasploit Exploitation Lab</a> |
-| Network Discovery and Enumeration | <a href="">Network Scanning & Reconnaissance Lab</a> |
-| SIEM Deployment and Security Monitoring | <a href="">Wazuh SIEM Home Lab</a> |
-| Log Collection and Threat Detection | <a href="">Wazuh Detection Lab</a> |
-| Network Troubleshooting and Infrastructure Support | <a href="">IT Support & Networking Projects</a> |
-| Python and Automation Fundamentals | <a href="">Security Automation Projects</a> |
+| AD Administration - SEIM Detection - Pentesting | <a href="https://github.com/DaBoss8723/AD-SEIM-Pentest">AD-SEIM-Pentest Lab</a> |
+| HTTP Credential Harvesting (MITM) | <a href="">Credential Harvesting Lab</a> |
+| Metasploitable-2 Pentesting | <a href="">Metasploitable-2 Vulnerability Assessment Lab</a> |
+| Social Engineering & Training | <a href="">Social Engineering & Training Lab</a> |
+| Windows Server 2019 Pentesting | <a href="">WinServer-2019 Pentesting Lab Lab</a> |
+
 
 ---
 
