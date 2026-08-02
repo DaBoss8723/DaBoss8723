@@ -37,7 +37,7 @@ I am seeking opportunities where I can apply my technical skills, continue expan
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Active Directory Administration & Domain Management | <a href="">Windows Server Home Lab</a> |
+| AD Administration - SEIM Detection - Pentesting | <a href="https://github.com/DaBoss8723/AD-SEIM-Pentest">AD-SEIM-Pentest</a> |
 | Windows Server Configuration and Administration | <a href="">Enterprise Network Lab</a> |
 | Vulnerability Scanning and Security Assessment | <a href="">Metasploit Vulnerability Assessment Lab</a> |
 | Penetration Testing Fundamentals | <a href="">Kali Linux & Metasploit Exploitation Lab</a> |
