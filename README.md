@@ -38,7 +38,7 @@ I am seeking opportunities where I can apply my technical skills, continue expan
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
 | AD Administration - SEIM Detection - Pentesting | <a href="https://github.com/DaBoss8723/AD-SEIM-Pentest">AD-SEIM-Pentest Lab</a> |
-| HTTP Credential Harvesting (MITM) | <a href="">Credential Harvesting Lab</a> |
+| HTTP Credential Harvesting (MITM) | <a href="https://github.com/DaBoss8723/HTTP-Credential-Harvesting-MITM">Credential Harvesting Lab</a> |
 | Metasploitable-2 Pentesting | <a href="">Metasploitable-2 Vulnerability Assessment Lab</a> |
 | Social Engineering & Training | <a href="">Social Engineering & Training Lab</a> |
 | Windows Server 2019 Pentesting | <a href="">WinServer-2019 Pentesting Lab Lab</a> |
