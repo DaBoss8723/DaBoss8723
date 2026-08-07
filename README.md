@@ -41,7 +41,7 @@ I am seeking opportunities where I can apply my technical skills, continue expan
 | HTTP Credential Harvesting (MITM) | <a href="https://github.com/DaBoss8723/HTTP-Credential-Harvesting-MITM">Credential Harvesting Lab</a> |
 | Metasploitable-2 Pentesting | <a href="https://github.com/DaBoss8723/Metasploitable-2-Vulnerability-Assessment">Metasploitable-2 Vulnerability Assessment Lab</a> |
 | Social Engineering & Training | Social Engineering & Training Lab |
-| Windows Server-2019 Pentesting |<a href="https://github.com/DaBoss8723/Windows-Server-2019-Pentesting">WinServer-2019-Pentesting</a> | 
+| Windows Server-2019 Pentesting | <a href="https://github.com/DaBoss8723/Windows-Server-2019-Pentesting">WinServer-2019-Pentesting</a> | 
 
 
 ---
